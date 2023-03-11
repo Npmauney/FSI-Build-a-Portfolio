@@ -1,0 +1,33 @@
+div 
+{
+  
+  border-radius: 10px;
+  
+}
+/* all class selectors start with a .*/
+
+.main-section 
+{
+  font-size: 24px;
+  background: pink;
+  border: 3px double purple;
+}
+
+.aboutme 
+{
+  border-style: solid;
+  font-size: 20px;
+  background: pink;
+}
+
+.fontchange
+
+{
+  font-family: fantasy;
+  color: red;
+}
+
+.center
+{
+  text-align: center;
+}
