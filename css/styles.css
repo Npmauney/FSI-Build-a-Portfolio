@@ -31,3 +31,14 @@ div
 {
   text-align: center;
 }
+.header
+{
+  font-family: Tahoma;
+  border-style: outset;
+  border-color: gold;
+  border-width: thick;
+}
+.script
+{
+  font-style: italic;
+}
