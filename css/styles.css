@@ -42,3 +42,11 @@ div
 {
   font-style: italic;
 }
+.contact
+{
+  background-color: pink;
+  text-align: center;
+  border-style: hidden;
+  border-width: thick;
+  border-radius: 70px;
+}
